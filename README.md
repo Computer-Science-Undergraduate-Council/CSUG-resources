@@ -3,14 +3,7 @@
 CSUG-resources is an effort from the Computer Science community at the University of Rochester to collaborate and compile resources that can be useful for every class year in every field. The following are the contents of this repository
 
 - Internship
-    - First Year
-    - Second Year
-    - Third Year
-    - Full-Time
 - Academics
-    - Core requirements
-    - Electives
-    - Math Requirements
 - Full-Time 
 
 
