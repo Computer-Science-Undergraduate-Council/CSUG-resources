@@ -9,8 +9,6 @@ For Contributors: Please try to add links from opportunities you're familiar wit
 | Company  |  Position   |  Class-Year | URL  | Network|
 |:--------:|:------------:|:----------:| :--: | :--------:|
 | Company Name | Swe Intern|Third Year/All | google.com | None        |
-| col 2 is |    centered  |         $12 | test | me        |
-| col 3 is | right-aligned|          $1 | test | me        |
 
 
 
