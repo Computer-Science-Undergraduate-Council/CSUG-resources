@@ -1,6 +1,4 @@
-# Academic Resources
-
-This is a list of academic resources that help understand various Computer Science concepts. 
+# This is a list of resources for CSC 171
 
 ---
  **Important!**

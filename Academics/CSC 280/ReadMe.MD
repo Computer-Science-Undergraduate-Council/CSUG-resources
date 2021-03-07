@@ -1,6 +1,5 @@
-# Academic Resources
+# This is a list of resources for CSC 280
 
-This is a list of academic resources that help understand various Computer Science concepts. 
 
 ---
  **Important!**
