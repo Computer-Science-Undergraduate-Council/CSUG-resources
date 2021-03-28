@@ -10,3 +10,4 @@
 - Turing Machines
     - [Explanation](https://www.youtube.com/watch?v=dNRDvLACg5Q)
     - [Halting Problem](https://www.youtube.com/watch?v=macM_MtS_w4)
+- Text book homepage: [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
