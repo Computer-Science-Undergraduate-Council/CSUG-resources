@@ -14,6 +14,12 @@ For Contributors: Please try to add links from opportunities you're familiar wit
 |Facebook|SWE Intern|Various|All|[Facebook](https://www.facebook.com/careers/jobs/654496918442526/)|None|
 
 
+# Compensation Resources
+
+These are resources to gain insight into a company's compensation, benefit, promotion structure and interview experiences. Mainly applicable for full time offers.
+
+[Glassdoor] (https://www.glassdoor.com/member/home/index.htm)
+[Levels] (https://www.levels.fyi)
 
 
 
