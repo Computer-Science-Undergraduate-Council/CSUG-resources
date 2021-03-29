@@ -7,8 +7,8 @@
 ---
 
 ## Finite Automata and Regular Expressions
-Regular Expressions (https://www.cs.rochester.edu/u/nelson/courses/csc_173/fa/re.html)  
-Graphic to Design Your Own DFA (http://madebyevan.com/fsm/)  
+[Regular Expressions](https://www.cs.rochester.edu/u/nelson/courses/csc_173/fa/re.html)  
+[Graphic to Design Your Own DFA](http://madebyevan.com/fsm/)  
 
 ## Grammars and Parsing
 
