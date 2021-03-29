@@ -13,7 +13,7 @@
 
 # Recursion Resources
 [GeeksForGeeks](https://www.geeksforgeeks.org/recursion/)  
-Intro to Recursion Video w/ Cracking the Coding Interview(https://www.youtube.com/watch?v=KEEKn7Me-ms)  
+[Intro to Recursion Video w/ Cracking the Coding Interview](https://www.youtube.com/watch?v=KEEKn7Me-ms)  
 
 # Collections
 [TutorialsPoint](https://www.tutorialspoint.com/java/java_collections.htm)  
