@@ -18,8 +18,9 @@ For Contributors: Please try to add links from opportunities you're familiar wit
 
 These are resources to gain insight into a company's compensation, benefit, promotion structure and interview experiences. Mainly applicable for full time offers.
 
-[Glassdoor] (https://www.glassdoor.com/member/home/index.htm)  
-[Levels] (https://www.levels.fyi)
+[Glassdoor](https://www.glassdoor.com/member/home/index.htm)  
+[Levels](https://www.levels.fyi)
+
 
 
 
