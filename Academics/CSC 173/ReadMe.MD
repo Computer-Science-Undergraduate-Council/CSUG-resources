@@ -15,7 +15,7 @@ Graphic to Design Your Own DFA (http://madebyevan.com/fsm/)
 ## Turing Machines and Computability
 
 ## Relational Algebra and Databases
-Relational Algebra (https://www.tutorialspoint.com/dbms/relational_algebra.htm)
+[Relational Algebra](https://www.tutorialspoint.com/dbms/relational_algebra.htm)
 
 [SQL](https://www.sqltutorial.org)
 
