@@ -13,6 +13,11 @@ For Contributors: Please try to add links from opportunities you're familiar wit
 |Citadel|SWE Intern|Chicago, New York, other global locations|All|[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/)|None|
 |Facebook|SWE Intern|Various|All|[Facebook](https://www.facebook.com/careers/jobs/654496918442526/)|None|
 
+# Resources for Coding Interviews
+
+[Coding Interview University](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
+
+[System Design Primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 # Compensation Resources
 
